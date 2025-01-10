@@ -119,6 +119,9 @@
           },
           {
             "$ref": "https://schema.opencaptablecoalition.com/v/1.2.0/objects/transactions/adjustment/StockPlanPoolAdjustment.schema.json"
+          },
+          {
+            "$ref": "https://schema.opencaptablecoalition.com/v/1.2.0/objects/transactions/adjustment/IssuerAuthorizedSharesAdjustment.schema.json"
           }
         ]
       }
